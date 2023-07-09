@@ -1,6 +1,5 @@
 from asyncio import events
 import io
-from msilib.schema import Error
 import sys
 from multiprocessing import Event
 from re import template
